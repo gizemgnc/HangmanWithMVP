@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HangmanWithMvp</string>
+    <string name="successful_message">Tebrikler Basarili Oldunuz!</string>
+    <string name="fail_message">Uzgunuz Tekrar Deneyiniz...</string>
+</resources>
